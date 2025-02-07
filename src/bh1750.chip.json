@@ -1,0 +1,24 @@
+{
+  "name": "bh1750",
+  "author": "Amal",
+  "pins": [
+    "VCC",
+    "GND",
+    "SDA",
+    "SCL",
+    "","","",""
+  ],
+  "controls": [
+    
+    
+    {
+      "id": "LightLevel",
+      "label": "LightLevel",
+      "type": "range",
+      "min": 1,
+      "max": 10000,
+      "step": 1
+    }
+ 
+  ]
+}
