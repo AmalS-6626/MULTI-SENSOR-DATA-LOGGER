@@ -1,8 +1,6 @@
 #include <Wire.h>
-//#include <BMP280.h>
 #include <BH1750.h>
 #include "Arduino.h"
-#include "Wire.h"
 #include <LiquidCrystal_I2C.h>
 #include <SdFat.h>
 
